@@ -98,8 +98,17 @@ git pull
 It is recommended to perform a backup before.
 You may need to manually merge any changes that cannot be merged automatically by git.
 
+
+# Run on Gitpod
+
+Click the button below to start a new development environment:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/karneaud/dockerfiles/tree/gitpod)
+
 ### Thanks
 Massive thank you to [lwj5](https://github.com/lwj5) for the tireless work to continually improve the dockerfile and its associated tooling.
+
+
 
 
 ## Support
